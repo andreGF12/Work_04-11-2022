@@ -24,7 +24,7 @@
       <img src="https://www.incamachupicchutours.com/wp-content/uploads/2020/10/manco-capac-1024x627.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Manco Capac y Mama Ocllo</h5>
-        <p bgcolor= red>Unas de las leyendas de la creacion del Inka.</p>
+        <p>Unas de las leyendas de la creacion del Inka.</p>
       </div>
     </div>
     <div class="carousel-item">
@@ -42,10 +42,7 @@
       </div>
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
+  <button onclick="location.href='http://127.0.0.1:8000/Peru'">Previus</button>
   <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
