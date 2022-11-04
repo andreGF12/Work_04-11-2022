@@ -6,10 +6,12 @@
 
         <title>Andre</title>
 
+        
+
         <!-- Fonts -->
         <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
-        <link rel="stylesheet" href="">
+        <link href= "resourses/img/andre.jpg" rel="" type="">
 
         <!-- Styles -->
         <style>
@@ -39,10 +41,10 @@
             @endif
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <div class: titulo>
-                   <h1>ANDRE</h1>
+            <div class: titulo>
+            <a title="andre" href="https://github.com/andreGF12/Work_04-11-2022"><img class="Andre" src="https://besthqwallpapers.com/Uploads/29-12-2019/117456/thumb2-andre-4k-wallpapers-with-names-horizontal-text-andre-name.jpg" width="800" height="400" alt="@andreGF12"></a>
+                
                 </div>
-
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
                         <div class="p-6">
